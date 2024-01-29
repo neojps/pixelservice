@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Application.Service/bin/Debug/net6.0
+/Application.Service/obj
+/Data.Gateway/bin/Debug/net6.0
+/Data.Gateway/obj
+/PixelService/bin/Debug/net6.0
+/PixelService/obj
+/Unit.Tests/bin/Debug/net6.0
+/Unit.Tests/obj
+/PixelService/.vs
